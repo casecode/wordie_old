@@ -1,4 +1,6 @@
 Wordie
+
+Wordie sends text messages with gifs or prizes to users if they tweet the secret word (wordie) of the day.
 ========================
 
 This application was generated with the rails_apps_composer gem:
